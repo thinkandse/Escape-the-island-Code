@@ -2,6 +2,8 @@
 This was for a school project.
 <br>
 Might add files if it gets too crowded!
+<br>
+.cs files are ones I made, .meta are there automatically
 <h2>
   Files that were not used:
 </h2>

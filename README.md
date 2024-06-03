@@ -4,6 +4,8 @@ This was for a school project.
 Might add files if it gets too crowded!
 <br>
 .cs files are ones I made, .meta are there automatically
+<br>
+SimplePlayerController.cs is the player-controller!
 <h2>
   Files that were not used:
 </h2>
